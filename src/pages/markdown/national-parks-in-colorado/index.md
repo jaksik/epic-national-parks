@@ -8,9 +8,7 @@ tags:
   - national parks
   - Colorado
 ---
-Being right in the middle of the Rocky Mountains, it's not a surprise that Colorado has some of the most stunning national parks in the country and play a crucial role in our nation's history.
-
-There is truly something for everyone in Colorado's national parks. A road trip is the best way to see them all.
+As the Roky Mountains rise to over 14,000 feet throughout Colorado, they create incredible landscapes that form the 4 great National Parks of Colorado which are also the best places to visit in Colorado.
 
 ## Colorado National Parks Map
 ![Rocky Mountain National Park](./bitmap.png)
@@ -26,16 +24,22 @@ The national parks in Colorado are with out a doubt the best places to visit in 
 
 ### 1. Rocky Mountain National Park
 ![Rocky Mountain National Park](./rocky-mountain.jpg)
-Rocky Mountain National Park is one of the most popular national parks in the country. With over 4 million anual visitors, it deffinitely pays off to visit this park in the off season or off hours.
+Rocky Mountain National Park is a majestic alpine oasis that might just leave you thinking that you were a part of The Sound of Music. With crystal clear mountain lakes, lush forests, a 14,000 foot peak, and an abundance of wild life, it truly is something.
+
+
 
 ### 2. Mesa Verde National Park
 ![Biscayne National Park](./mesa-verde.jpg)
-No other place like it on Earth, Mesa Verde National Park is where the Ancestral Pueblo people made their cliff dwelling homes among in the San Juan Mountains.
+Mesa Verde National Park is not to be overlooked. Home to the most in tact ruins from cliff dwelling native americans, there truly is not many other places like it. Although there's enough in the park to keep one busy for several days, the main sights can be visited in just one day.
+
+The best time to visit Mesa Verde National Park is in late spring or early fall, that way you can hopefully avoid any winter weather as well as large crowds. Just a short drive from Durango, the largest town in the region, Mesa Verde National Park is well worth the visit.
 
 ### 3. Great Sand Dunes National Park
 ![Great Sand Dunes National Park](./sand-dunes.jpg)
-Most people are surprised to find out that Great Sand Dunes National Park right in central Colorado has the largest sand dunes in all of North America. The sand dunes them selves cover over 30 sq miles with some reaching a height of nearly 1,000 feet.
+Being home to the largest sand dunes in North America and receiving less than 600,000 anual visitors, Great Sand Dunes National Park is often a hidden jem for most travelers. The dunes can be spotted from nearly 50 miles away as you head towards the park in the desolate San Louise Valley. Initial views of the dunes are not too impressive as they sit nestled at the base of some of the highest mountains in Colorado. It's not until you start approaching the park that the sheer size and mass of the dunes become mind boggling.
+
+Great Sand Dunes National Park is a diverse ecosystem that has something to offer to just about anyone. If sledding down sand dunes isn't your thing, there are many other options from soaking in the river, to hiking to alpine lakes, and even more.
 
 ### 4. Black Canyon of the Gunnison National Park
 ![Black Canyon of the Gunnison National Park](./black-canyon.jpg)
-Black Canyon of the Gunnison National Park often flys under the radar because it's surrounded by other much more popular parks such as Mesa Verde and Rocky Mountain. However, Black Canyon of the Gunnison should not be over looked. It's a beautiful canyon carved right into the Rocky Mountains.
+Black Canyon of the Gunnison National Park is great place to escape the crowds that you'll find at some of the more popular national parks and is deffinitely worth seeing. It's home to some of the steepest and oldest ciffs in North America that form the namesake black canyon.
