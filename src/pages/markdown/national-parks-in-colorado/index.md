@@ -8,7 +8,9 @@ tags:
   - national parks
   - Colorado
 ---
-As the Roky Mountains rise to over 14,000 feet throughout Colorado, they create incredible landscapes that form the 4 great National Parks of Colorado which are also the best places to visit in Colorado.
+As the Roky Mountains rise to over 14,000 feet throughout Colorado, they create incredible landscapes that form the 4 great National Parks of Colorado which are the best places to visit in Colorado. The national parks in colorado are some of the most beautiful places in the country as it's difficult to compete with the incredible nature throughout the Rocky Mountains.
+
+Some of the national parks in Colorado are much more accessible than others. While Rocky Mountain National Park is only about 66 miles and about an hour and a half from Denver, Mesa Verde National Park is nearly 400 miles and about 7 hours from Denver.
 
 ## Colorado National Parks Map
 ![Rocky Mountain National Park](./bitmap.png)
@@ -24,9 +26,9 @@ The national parks in Colorado are with out a doubt the best places to visit in 
 
 ### 1. Rocky Mountain National Park
 ![Rocky Mountain National Park](./rocky-mountain.jpg)
-Rocky Mountain National Park is a majestic alpine oasis that might just leave you thinking that you were a part of The Sound of Music. With crystal clear mountain lakes, lush forests, a 14,000 foot peak, and an abundance of wild life, it truly is something.
+Rocky Mountain National Park is a majestic alpine oasis full of crystal clear mountain lakes, lush forests, and an abundance of wildlife. There is an abundance of hiking and camping throughout the park as well as scenic by-ways that compare to nothing else in the country.
 
-
+Most people to choose to drive through the park by starting in Estes Park and taking Trail Ridge Road over to Grand Lake. It takes just over an hour and a half to drive through Rocky Mountain National Park when there is good weather and no traffic. However, it's likely to take upwards of 3 hours if you plan on stopping to take photos.
 
 ### 2. Mesa Verde National Park
 ![Biscayne National Park](./mesa-verde.jpg)
@@ -42,4 +44,6 @@ Great Sand Dunes National Park is a diverse ecosystem that has something to offe
 
 ### 4. Black Canyon of the Gunnison National Park
 ![Black Canyon of the Gunnison National Park](./black-canyon.jpg)
-Black Canyon of the Gunnison National Park is great place to escape the crowds that you'll find at some of the more popular national parks and is deffinitely worth seeing. It's home to some of the steepest and oldest ciffs in North America that form the namesake black canyon.
+Black Canyon of the Gunnison National Park is home to some of the steepest cliffs and oldest rocks in the country. with parts of the canyon reaching depths of nearly half a mile and being as narrow as only 40ft, it can be a difficult place to navigate.
+
+Althought the canyon its self is magnificent, a visit to the park is not worth it for many travelers. The canyon walls are so steep that it doesn't offer the views that you might find at the Grand Canyon and it doesn't offer a variety of trails either for people of all skill levels.
