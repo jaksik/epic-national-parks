@@ -23,6 +23,7 @@ White Sand Dunes National Park is just 100 miles north and a one and a half hour
 
 ### 2. Carlsbad Caverns National Park
 ![Carlsbad Caverns National Park](./carlsbad-caverns.jpg)
+<a href="https://amzn.to/30IHXVi" target="_blank" rel="noopener noreferrer">Map of Carlsbad Caverns National Park<a>
 Carlsbad Caverns National Park is one of the more unique parks in the entire national park system and truly is a gem of New Mexico. Comprised of over 119 caves, this extensive cave network still has a lot to be explored for the first time.
 
 It takes about 2 hours to walk the main trails in the caverns of Carlsbad Caverns National park, but many people can spend several days at the park if they decide to explore the above-ground trails. Also, due to the remote location of the park, this is one of the best places in the country for star gazing.
