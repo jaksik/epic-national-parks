@@ -2,15 +2,15 @@
 templateKey: blog-post
 title: The 9 World Renounded National Parks of California
 date: 2020-09-21
-description: The National Parks of California
+description: California has 9 national parks, 
 image: ./yosemite.jpg
 tags:
   - national parks
   - California
 ---
-The 9 national parks in California are home to some of the most diverse and incredible landscapes on Earth and are by far the best places to visit in California. The national parks are spread out across this large state with some being much more accessible than others. Many of the sites and natural features are world renowned and iconic around the globe.
+California has 9 national parks spread out across the large state, all of which are breath taking, unique, and worth the visit. Several of the parks have record setting natural features such as the lowest elevation in the United States, the tallest tree in the world, and the largest dome volcano in the world.
 
-Many people organize their entire summer vacation around visiting California's national parks and because of the incredible nature that can be found in each park, one could easily spend their entire vacation in just a single park. 
+The 9 national parks in California are some of the best places to visit in California and visiting them all make for a great California road trip. The parks are diverse and traveling to them all can be difficult. Not only are they 
 
 ## What are the national parks in California?
 
