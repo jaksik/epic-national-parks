@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: National Parks in Utah
 date: 2020-09-21
-description: Traveling to Utah? The 5 Utah national parks are the best places to visit in Utah and have the most beautiful and dramatic landscapes in the country.
+description: The 5 national parks in Utah, Zion, Bryce Canyon, Arches, Capitol Reef, and Canyonlands.
 image: ./zion.jpg
 tags:
   - national parks

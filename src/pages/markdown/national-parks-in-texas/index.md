@@ -8,7 +8,7 @@ tags:
   - national parks
   - Texas
 ---
-Texas isn't known for its national parks, but the 2 national parks that  Texas does have are incredibly epic and are the best places to visit in Texas.
+**Big Bend National Park and Guadalupe Mountains National Park are the 2 national parks in Texas, both of which are located in the remote western side of the large state. There is a total of 17 units operated by the national park system in Texas including national memorials, momuments, and trails.**
 
 ## What are the national parks in Texas?
 

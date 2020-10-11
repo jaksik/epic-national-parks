@@ -53,10 +53,10 @@ const NavbarComponent = ({ siteTitle }) => {
   const toggleNavbar = () => setCollapsed(!collapsed);
 
   return (
-    <div className="nav-wrapper">
+    <div style={{ position: `fixed`, zIndex: `200`, width: `100%`, marginTop: (margin) }} className="nav-wrapper">
       <Navbar
         dark expand="md"
-        className="background"
+        className={(scrollTop > 0 ? 'background' : '')}
       >
 
         <NavbarBrand href="/" className="mr-auto d-flex align-items-center nav-brand-image">
@@ -71,7 +71,7 @@ const NavbarComponent = ({ siteTitle }) => {
   
               {links.mainLinks.map((mainLink, ind) => (
                 <NavItem key={ind} style={{ margin: `0 20px` }}>
-                  <Link to={mainLink.link} style={{ color: `white` }}>{mainLink.title}</Link>
+                  <Link to={mainLink.link} style={{ color: `black` }}>{mainLink.title}</Link>
                 </NavItem>
               ))}
 
